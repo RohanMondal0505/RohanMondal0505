@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/rohan__0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan__0505" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohanmondal0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanmondal0505" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008668119061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008668119061" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100008668119061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100008668119061" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan__0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan__0505" height="30" width="40" /></a>
 </p>
 
