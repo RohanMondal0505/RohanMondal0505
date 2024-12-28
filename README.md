@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmondal0505&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmondal0505" /> </p>
 
-- 🔭 I’m currently working on [MusicBook](https://musicbook.co.in/), [Emagz](http://www.emagz.live/)
+- 🔭 I’m currently working on [Hiring Roof](https://www.hiringroof.com/), [Hansraj Ventures](https://www.hansrajventures.com/), [Mine Kids](https://minekids.in/), [MusicBook](https://musicbook.co.in/), [Emagz](http://www.emagz.live/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, React.js**
+- 💬 Ask me about **HTML, CSS, React.js, Node.js**
 
 - 📫 How to reach me **rohan05052000@gmail.com**
 
