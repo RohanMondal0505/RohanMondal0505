@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmondal0505&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmondal0505" /> </p>
 
-- 🔭 I’m currently working on [Hiring Roof](https://www.hiringroof.com/), [Hansraj Ventures](https://www.hansrajventures.com/), [Mine Kids](https://minekids.in/), [MusicBook](https://musicbook.co.in/), [Emagz](http://www.emagz.live/)
+- 🔭 I’m currently working on [DOTC](https://)
 
 - 🌱 I’m currently learning **MERN Stack**
 
